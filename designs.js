@@ -8,7 +8,7 @@ $('#sizePicker').submit(function(event){
 	height = $('#inputHeight').val();
 	width = $('#inputWeight').val();
 	makeGrid(height, width);
-	//console.log('height: '+ height +" "+'width: '+ width);
+	
 });
 
 
